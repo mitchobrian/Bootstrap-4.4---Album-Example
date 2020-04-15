@@ -1,14 +1,14 @@
-# Bootstrap 4.4 - Checkout
+# Bootstrap 4.4 - Album
 
 Dieses Repo stellt die nötigsten Dateien für das Bootstrap Beispiel bereit.
 
 ## Example
 
-https://getbootstrap.com/docs/4.0/examples/checkout/
+https://getbootstrap.com/docs/4.4/examples/album/
 
-## GitLab Page
+## Page
 
-https://mitchobrian.gitlab.io/bootstrap-4.4-checkout-example/
+https://mitchobrian.gitlab.io/bootstrap-4.4-album-example/
 
 ## Bootstrap
 
